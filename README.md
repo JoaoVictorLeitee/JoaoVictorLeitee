@@ -6,4 +6,4 @@ Bacharelado em Sistemas de Informação
 - 🌱  Atualmente Estudo a linguagem Python na IDE PyCharm
 - 👯 E procuro somar e colaborar em projetos na linguagem Python
 
-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/joão-victor-leite-do-nascimento/ript)](https://www.linkedin.com/in/joão-victor-leite-do-nascimento/ript)
