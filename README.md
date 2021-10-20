@@ -1,4 +1,4 @@
-Olá me chamo João Victor Leite e estudo programação Python sempre em busca de mais 
+Olá me chamo João Victor Leite e estudo programação Python sempre em busca de mais  conhecimento
 
 Bacharelado em Sistemas de Informação
 
