@@ -3,7 +3,7 @@ Olá me chamo João Victor Leite e estudo programação Python sempre em busca d
 Bacharelado em Sistemas de Informação
 
 - 💻 Atualmente trabalho na empresa Konsist  Serviços Empresariais
-- 💻  Atualmente Estudo a linguagem Python na IDE PyCharm
-- 💻 E procuro somar e colaborar em projetos na linguagem Python
+- 💻  Atualmente Estudo a linguagem Python na IDE PyCharm e JavaScript
+- 💻 E procuro somar e colaborar em projetos na linguagem Python e JavaScript
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joãoVictorLeite/)](https://www.linkedin.com/in/joãoVictorLeite/)
