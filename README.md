@@ -1,8 +1,8 @@
-Olá me chamo João Victor Leite e estudo programação Python sempre em busca de mais  conhecimento
+Olá me chamo João Victor Leite e estudo programação Python e JavaScript, sempre em busca de mais conhecimento
 
 Bacharelado em Sistemas de Informação
 
-- 💻 Atualmente trabalho na empresa Konsist  Serviços Empresariais
+- 💻 Atualmente trabalho como supervisor de suporte na empresa Konsist Serviços Empresariais
 - 💻  Atualmente Estudo a linguagem Python na IDE PyCharm e JavaScript
 - 💻 E procuro somar e colaborar em projetos na linguagem Python e JavaScript
 
