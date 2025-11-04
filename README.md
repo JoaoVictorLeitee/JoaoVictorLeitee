@@ -1,4 +1,4 @@
-Olá me chamo João Victor Leite e estudo programação Backend em Python, JavaScript e Node.JS, sempre em busca de mais conhecimento
+Olá me chamo João Victor Leite desenvolvedor Jr
 
 Bacharelado em Sistemas de Informação
 
